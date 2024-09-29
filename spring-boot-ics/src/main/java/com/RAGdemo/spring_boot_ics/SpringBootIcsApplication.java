@@ -8,6 +8,7 @@ public class SpringBootIcsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootIcsApplication.class, args);
+		System.out.println("RAG Demo Application is up and Running");
 	}
 
 }
